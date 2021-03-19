@@ -1,3 +1,7 @@
 Line 1: Adding line from git hub UI
 Line 2: Added from git console
+<<<<<<< HEAD
 Line 3; added from console after adding line 3 from ui
+=======
+Line 3: added from ui
+>>>>>>> 52ddeaf5e8fcde9b0a5a3e84fd4ad41e0854febe
